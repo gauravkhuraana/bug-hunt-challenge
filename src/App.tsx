@@ -179,7 +179,7 @@ function App() {
         <div className="text-center mb-8">
           <div className="flex items-center justify-center gap-3 mb-4">
             <Bug size={48} weight="duotone" className="text-accent" />
-            <h1 className="text-4xl font-bold text-foreground">Bug Hunter Challenge</h1>
+            <h1 className="text-4xl font-bold text-foreground">Testing Challenges</h1>
           </div>
           <p className="text-lg text-muted-foreground mb-4">
             This task manager has <span className="font-bold text-accent">10 functional bugs</span> hidden in it. Can you find them all?
